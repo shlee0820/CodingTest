@@ -22,9 +22,4 @@ def hansu(input_num):
 # 사용자에게 입력받기
 input_num = int(input())
 
-# 예외 처리
-if input_num < 0 or input_num > 1000:
-    print("입력 범위를 벗어났습니다.")
-    exit()
-
 print(hansu(input_num))
