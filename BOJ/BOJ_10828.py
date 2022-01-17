@@ -1,6 +1,6 @@
 # 스택
 # 문제 : 스택 구현 후 명령 처리
-# 명령 : push, pop, size, empty, top
+# 명령 : push, pop, size, empty, top 
 
 import sys
 
