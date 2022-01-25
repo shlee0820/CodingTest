@@ -1,9 +1,7 @@
 # CodingTest
 
 <h2><b>✨ Coding-test repository ✨</b></h2>
-<br/>
 
-***
 <p> 코딩테스트 연습을 진행 중입니다.<br/>주 언어는 python이며, 본 레포지토리에는 모두 python을 사용한 코드가 작성되어 있습니다.</p>
 
 *** 
