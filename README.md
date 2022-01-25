@@ -20,10 +20,10 @@
 <li> 프로그래머스 : https://programmers.co.kr/
 <li> leetcode : https://leetcode.com/
 <li> 이것이 코딩 테스트다 (github) : https://github.com/ndb796/python-for-coding-test 
-<br/>
+<br/><br/>
 
 ***
-
+<br/>
 <h3> <b>✅ 문제 list</b> </h3> 
 
 <details>
