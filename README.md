@@ -115,4 +115,19 @@
 </div>
 </details>
 
+<details>
+<summary> <b>🌸 BFS 🌸</b> </summary>
+<div markdown="1">
+<br/>
+
+| 알고리즘        | 일자         | 문제 사이트  | 문제 번호 | 등급       | 기타 |
+|-------------|------------|---------|-------|----------|----|
+| BFS | 2022.02.23 | [연구소](https://www.acmicpc.net/problem/14502) | 14502 | gold 5 |
+| BFS |  |  |  |  |
+| BFS |  |  |  |  |
+| BFS |  |  |  |  |
+
+</div>
+</details>
+
 <br/>
