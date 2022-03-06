@@ -123,8 +123,8 @@
 | 알고리즘        | 일자         | 문제 사이트  | 문제 번호 | 등급       | 기타 |
 |-------------|------------|---------|-------|----------|----|
 | BFS | 2022.02.23 | [연구소](https://www.acmicpc.net/problem/14502) | 14502 | gold 5 |
-| BFS |  |  |  |  |
-| BFS |  |  |  |  |
+| BFS | 2022.02.28 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | 1697 | silver 2 |
+| BFS | 2022.02.28 | [미로 탐색](https://www.acmicpc.net/problem/2178) | 2178 | silver 1 |
 | BFS |  |  |  |  |
 
 </div>
